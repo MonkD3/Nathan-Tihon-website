@@ -25,7 +25,7 @@ author = 'Nathan Tihon'
 release = '0.0'
 html_title = 'Nathan Tihon'
 html_show_sourcelink = False
-html_sidebars = {'**' : ['localtoc.html', 'globaltoc.html']}
+# html_sidebars = {'**' : ['localtoc.html', 'relations.html', 'search.html']}
 
 
 # -- General configuration ---------------------------------------------------
