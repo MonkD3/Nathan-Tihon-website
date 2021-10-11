@@ -1,0 +1,11 @@
+version: 2
+
+python: 
+  version: "3.8"
+
+formats:
+  - pdf
+
+sphinx:
+  configuration: source/conf.py
+  builder: html
